@@ -8,7 +8,7 @@ Ingeniera Forestal | SIG • Teledetección • Ciencia de Datos Ambiental | R &
 
 ---
 
-## 🌱 Sobre mí
+## Sobre mi
 
 Ingeniera Forestal de la Pontificia Universidad Católica de Chile, con experiencia en análisis espacial, teledetección y gestión ambiental aplicada a procesos operativos y estratégicos en el sector público.
 Trabajo actualmente en CONAF – Departamento de Desarrollo e Investigación, donde me desempeño en:
@@ -28,7 +28,7 @@ Estoy comprometida con el aprendizaje continuo y con aportar soluciones técnica
 
 ---
 
-## 🛠️ Habilidaes técnicas
+## Habilidaes técnicas
 
 - **SIG:** ArcGIS Pro, QGIS  
 - **Teledetección:** Google Earth Engine, procesamiento satelital  
@@ -46,7 +46,7 @@ Automatización del proceso de reproyección, estandarización y cálculo geomé
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - 📧 mt.henriquezp@uc.cl  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-trinidad-henr%C3%ADquez-poblete-94998b18b/)  
