@@ -28,7 +28,7 @@ Estoy comprometida con el aprendizaje continuo y con aportar soluciones técnica
 
 ---
 
-## Habilidaes técnicas
+## Habilidades técnicas
 
 - **SIG:** ArcGIS Pro, QGIS  
 - **Teledetección:** Google Earth Engine, procesamiento satelital  
