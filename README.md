@@ -34,7 +34,7 @@ Estoy comprometida con el aprendizaje continuo y con aportar soluciones técnica
 - **Teledetección:** Google Earth Engine, procesamiento satelital  
 - **Programación:** R, Python (básico).
 - **Modelación:** Wildfire Analyst, análisis espacial y climático
-- **Otras:** Inglés intermedios, Microsoft Excel, licencia de conducir clase B.
+- **Otras:** Inglés intermedio, Microsoft Excel, licencia de conducir clase B.
 
 ---
 
